@@ -1,0 +1,26 @@
+
+#intro{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+#logo{
+
+   width: 30%;
+   height: 30%;
+   margin-top: 30px;
+   margin-bottom: 30px;
+   margin-left: 50px;
+
+}
+
+#profil{
+    width: 20%;
+    height: 20%;
+    margin-left: 60px;
+
+}
